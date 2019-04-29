@@ -54,7 +54,7 @@
 		    <artifactId>ojdbc7</artifactId>
 		    <version>12.1.0.2</version>
 		    <scope>system</scope>
-            <systemPath>${basedir}/lib/ojdbc6.jar</systemPath>
+            <systemPath>${basedir}/lib/ojdbc7-12.1.0.2.jar</systemPath>
 		</dependency>
 		
 		<dependency>
