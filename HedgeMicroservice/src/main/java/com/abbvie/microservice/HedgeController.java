@@ -144,7 +144,7 @@ public class HedgeController {
 		return baseHedgeTransactionsTOList;
 	}
 	
-	
+		
 	/**
 	 * Gets the base comparison data.
 	 *
